@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    width: 100vw;
+}
+
+li{
+    height: 100px;
+    display: block;
+}
